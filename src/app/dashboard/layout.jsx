@@ -6,8 +6,8 @@ import "@uploadthing/react/styles.css";
 
 
 export const metadata = {
-  title: "Call Center Professional's Admin Dashboard",
-  description: "Call Center dashboard for Call Center professionals",
+  title: "Food Processing  Professional's Admin Dashboard",
+  description: "Food Processing  dashboard for Food Processing  professionals",
 };
 
 const layout = ({children}) => {
